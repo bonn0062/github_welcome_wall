@@ -4,7 +4,7 @@ Welcome to the official repository for the Towards Data Science Article,
 
 [WTH am I doing here? The absolute beginner's guide to Git and GitHub: Getting started with Git and GitHub for the curious and completely confused (plus the easiest way to contribute to your first open source project ever!)](http://)
 
-![Photo by James Bold on Unsplash](giraffe_pixabay.jpeg)
+![Photo by James Bold on Unsplash](/giraffe_pixabay.jpeg)
 
 You've read the article, and now you must be here to contribute to your first open source project! It's time to leave a message for those who come after you. 
 

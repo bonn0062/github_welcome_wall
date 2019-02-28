@@ -42,7 +42,11 @@ It's all in the article! You're going to clone this repository, edit the *welcom
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on the code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on this project.
+
+## Code of Conduct
+
+Please read [CODE_OF_CONDUCT.MD](CODE_OF_CONDUCT.MD) for details on our full code of conduct.
 
 ## Authors
 

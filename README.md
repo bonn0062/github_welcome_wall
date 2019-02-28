@@ -1,20 +1,52 @@
-# welcome_to_github
+# Welcome to GitHub!!!
 
-Welcome to the official repository for the Towards Data Science Article, 
+You've read the article, and now you must be here to contribute to your first open source project! 
+
+It's time to leave a message for everyone who comes after you.
+
+## Welcome to the official repository for the Towards Data Science Article, 
 
 [WTH am I doing here? The absolute beginner's guide to Git and GitHub: Getting started with Git and GitHub for the curious and completely confused (plus the easiest way to contribute to your first open source project ever!)](http://)
 
 ![Photo by James Bold on Unsplash](unsplash_james_bold.jpeg)
 
-You've read the article, and now you must be here to contribute to your first open source project! It's time to leave a message for those who come after you. 
+This is a tiny project that only exists to welcome newcomers to the GitHub process. If you are totally new to the Git and GitHub thing and you need a safe place to figure out how to clone a repository, make a change, and create a pull request, you're in the right place.
 
-Thinking way too hard about this? Feel free to copy and paste this into the 
+Give it a try!
+
+I'm not going to judge you for trying and I'm not going to judge you for making mistakes. There's no reason to be here besides  learning how this works, so you're in great company if you do. 
+
+**Just go for it!**
+
+Thinking way too hard about this? Feel free to copy and paste this message:
+
+*Welcome to GitHub! You're amazing. Congratulations for making it this far!*
+
+Now let's get started!
+
+
+## Getting Started
+
+It's all in the article! You're going to clone this repository, edit the *welcome_to_github.md* file to add a message of welcome to the next person or some other cool communication, and create your first pull request!
+
+### Prerequisites
+
+**Definitely**
+* You need to have access to a computer
+* You need to have a GitHub account
+
+**Probably**
+* You might want to check out the article first
+* You should have Git installed on your computer if you can
+* You might want to know how to access your terminal so you can practice the whole thing
+* It would be good to have a text editor so that you can grab the file and edit it on your computer
+
+*Here's the intro to the article if you landed here without it:*
 
 Looking to get started with Git and GitHub? Do you need to collaborate with a team? Are you working on a project? Have you recently discovered that you pretty much need to be on GitHub if you want anyone to take you seriously in tech? 
 …do you really just want to contribute to your first open source project?
 
 This one's for you!
-
 
 It's totally easy to get started with Git. If you're a fast reader (and you don't take a lot of time with sign up and installation), you can be up and running on GitHub about ten minutes from right now. 
 If you go all the way through the article, you can practice cloning an existing repository, creating a branch, making changes, and then committing those changes. 

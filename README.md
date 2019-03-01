@@ -1,4 +1,4 @@
-# Welcome to te GitHub welcome wall project!!!
+# Welcome to the GitHub welcome wall project!!!
 
 You've read [the article](http://), and now you're here to contribute to your first open source project! 
 

@@ -1,6 +1,6 @@
 ![Photo by Tama66 via Pixabay](pixabay_Tama66.jpg)
 
-## You're here! You made it! Welcome to the Wall! {text-align:center;}
+## You're here! You made it! Welcome to the Wall!
 
 Now it's time to contribute to your very first open source project by writing a quick message here to welcome anyone else who's new here. 
 
@@ -11,19 +11,23 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 
 
 **I can't wait to see what we create!**
+<br>
 -----------
-
+<br>
+<br>
 ![Image by ShonEjai via Pixabay](pixabay_ShonEjai.jpg)
-
-*Welcome to GitHub! You're amazing. Congratulations for making it this far! ~anne* <i class="fas fa-heart" aria-hidden="true" style="color:#c7254e">
-
+<br>
+<br>
+<br>
+*Welcome to GitHub! You're amazing. Congratulations for making it this far! ~anne* 
+<br>
+<br>
+<br>
 ![Image by pixel2013 via Pixabay](pixabay_pixel2013.jpg)
-
-
+<br>
 
 ![Image by ShonEjai via Pixabay](pixabay_ShonEjai(hope).jpg)
-
-
+<br>
 
 ![Image by StockSnap via Pixabay](pixabay_StockSnap(beauty).jpg)
 
@@ -36,4 +40,4 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 
 
 
-![Image by StockSnap via Pixabay](pixabay_StockSnap(cat).jpg){:.thumbnail.bordered}
+![Image by StockSnap via Pixabay](pixabay_StockSnap(cat).jpg){: width=150 height=100 style="float:right; padding:16px"}

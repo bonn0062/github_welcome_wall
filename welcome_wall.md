@@ -1,4 +1,4 @@
-![Photo by Tama66 via Pixabay](Images/pixabay_Tama66.jpg)
+![Photo by Tama66 via Pixabay](images/pixabay_Tama66.jpg)
 
 ## You're here! You made it! Welcome to the Wall!
 {: .text-center}
@@ -17,7 +17,7 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 <br>
 # THE WALL
 {: .text-center}
-![Image by ShonEjai via Pixabay](Images/pixabay_ShonEjai.jpg)
+![Image by ShonEjai via Pixabay](images/pixabay_ShonEjai.jpg)
 {: .full}
 <br>
 <br>
@@ -33,15 +33,15 @@ Welcome to GitHub! You're amazing. Congratulations for making it this far! ~anne
 <br>
 <br>
 <br>
-![Image by pixel2013 via Pixabay](Images/pixabay_pixel2013.jpg)
+![Image by pixel2013 via Pixabay](images/pixabay_pixel2013.jpg)
 {: .align-left}
 <br>
 <br>
-![Image by ShonEjai via Pixabay](Images/pixabay_ShonEjai(hope).jpg)
+![Image by ShonEjai via Pixabay](images/pixabay_ShonEjai(hope).jpg)
 {: =150x100 style="float:right; padding:16px"}
 <br>
 <br>
-![Image by StockSnap via Pixabay](Images/pixabay_StockSnap(beauty).jpg)
+![Image by StockSnap via Pixabay](images/pixabay_StockSnap(beauty).jpg)
 <br>
 <br>
 <br>
@@ -53,7 +53,7 @@ Welcome to GitHub! You're amazing. Congratulations for making it this far! ~anne
 <br>
 Happy creating! <3
 {: style="color: red"}
-![Image by StockSnap via Pixabay](Images/pixabay_StockSnap(cat).jpg){: =150x100 style="float:right; padding:16px"}
+![Image by StockSnap via Pixabay](images/pixabay_StockSnap(cat).jpg){: =150x100 style="float:right; padding:16px"}
 <br>
 <br>
 <br>

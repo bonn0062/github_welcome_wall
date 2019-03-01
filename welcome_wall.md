@@ -10,16 +10,26 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 **Now get out there and change the world**
 
 
-**I can't wait to see what we create!**
-<br>
------------
+## I can't wait to see what we create!
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+# THE WALL{: .text-center}
 ![Image by ShonEjai via Pixabay](pixabay_ShonEjai.jpg)
+{: .full}
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
 *Welcome to GitHub! You're amazing. Congratulations for making it this far! ~anne* 
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -30,14 +40,21 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 <br>
 
 ![Image by StockSnap via Pixabay](pixabay_StockSnap(beauty).jpg)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
 
 
+![Image by StockSnap via Pixabay](pixabay_StockSnap(cat).jpg)
+{: width=150 height=100 style="float:right; padding:16px"}
 
 
-
-
-
-![Image by StockSnap via Pixabay](pixabay_StockSnap(cat).jpg){: width=150 height=100 style="float:right; padding:16px"}

@@ -53,7 +53,6 @@ Welcome to GitHub! You're amazing. Congratulations for making it this far! ~anne
 <br>
 Happy creating! <3
 {: style="color: red"}
-<br>
 ![Image by StockSnap via Pixabay](Images/pixabay_StockSnap(cat).jpg){: =150x100 style="float:right; padding:16px"}
 <br>
 <br>

@@ -1,26 +1,29 @@
-# Welcome to GitHub!!!
+# Welcome to te GitHub welcome wall project!!!
 
-You've read the article, and now you're here to contribute to your first open source project! 
+You've read [the article](http://), and now you're here to contribute to your first open source project! 
 
-It's time to leave a message for everyone who comes after you.
+>>>It's time to leave a message for everyone who comes after you.
 
-## Find the [wall](welcome_wall.md) here!
+
+# Find the [wall](welcome_wall.md) here!
+
+
+![Photo by James Bold on Unsplash](unsplash_james_bold.jpeg)
 
 **This is the official repository for the Towards Data Science Article,** 
 
 **[WTH am I doing here? The absolute beginner's guide to Git and GitHub: Getting started with Git and GitHub for the curious and completely confused (plus the easiest way to contribute to your first open source project ever!)](http://)**
 
 
-![Photo by James Bold on Unsplash](unsplash_james_bold.jpeg)
-
-
 This is a tiny project that only exists to welcome newcomers to the GitHub process. If you are totally new to the Git and GitHub thing and you need a safe place to figure out how to clone a repository, make a change, and create a pull request, you're in the right place.
 
 Give it a try!
 
-I'm not going to judge you for trying and I'm not going to judge you for making mistakes. There's no reason to be here besides  learning how this works, so you're in great company if you do. 
+I'm not going to judge you for trying and I'm not going to judge you for making mistakes. (I'm not going to judge you at all if you're here to learn!) There's no reason to be here besides figuring out how all of this works, so you're in great company if you make a few mistakes. It's just part of the process! 
 
 **Just go for it!**
+
+Your mission is simply to clone the repository, create a branch where you add a positive welcoming or encouraging note for everyone who comes after you, and then create a pull request to have your message added to our wall. Be proud that you have come this far! Be encouraging! Don't ever forget how hard the first few steps of any journey can be. 
 
 Thinking way too hard about this? Feel free to copy and paste this message:
 
@@ -51,7 +54,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on this project.
 
 ## Code of Conduct
 
-Please read [CODE_OF_CONDUCT.MD](CODE_OF_CONDUCT.MD) for details on our full code of conduct.
+Please read [CODE_OF_CONDUCT.MD](CODE_OF_CONDUCT.MD) for details on our code of conduct.
 
 ## Authors
 

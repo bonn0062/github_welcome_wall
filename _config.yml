@@ -1,1 +1,4 @@
 background: pixabay_Tama66.jpg
+
+plugins:
+  - jemoji

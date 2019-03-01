@@ -8,7 +8,7 @@ You've read [the article](http://), and now you're here to contribute to your fi
 # Find the [wall](welcome_wall.md) here!
 
 
-![Photo by James Bold on Unsplash](images/unsplash_james_bold.jpeg)
+![Photo by James Bold on Unsplash](Images/unsplash_james_bold.jpeg)
 
 **This is the official repository for the Towards Data Science Article,** 
 

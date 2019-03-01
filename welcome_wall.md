@@ -18,7 +18,7 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 # THE WALL
 {: .text-center}
 ![Image by ShonEjai via Pixabay](Images/pixabay_ShonEjai.jpg)
-
+{: .full}
 <br>
 <br>
 <br>
@@ -26,13 +26,15 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 <br>
 <br>
 Welcome to GitHub! You're amazing. Congratulations for making it this far! ~anne 
+{: .text-left}
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-![Image by pixel2013 via Pixabay](Images/pixabay_pixel2013.jpg){: .align-left}
+![Image by pixel2013 via Pixabay](Images/pixabay_pixel2013.jpg)
+{: .align-left}
 <br>
 <br>
 ![Image by ShonEjai via Pixabay](Images/pixabay_ShonEjai(hope).jpg)

@@ -36,4 +36,4 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 
 
 
-! <p class="text-right">[Image by StockSnap via Pixabay](pixabay_StockSnap(cat).jpg)</p>
+![Image by StockSnap via Pixabay](pixabay_StockSnap(cat).jpg){:.thumbnail.bordered}

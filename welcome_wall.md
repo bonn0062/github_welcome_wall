@@ -2,7 +2,7 @@
 
 ![Photo by Tama66 via Pixabay](pixabay_Tama66.jpg)
 
-                                You're here! You made it! 
+## You're here! You made it! 
 
 Now it's time to contribute to your very first open source project by writing a quick message here to welcome anyone else who's new here. 
 
@@ -12,13 +12,13 @@ If you don't know how to use markdown, here's a [fantastic guide!](https://guide
 **Now get out there and change the world**
 
 
-                            I can't wait to see what we create!
+**I can't wait to see what we create!**
 
-[Image by ShonEjai via Pixabay](pixabay_ShonEjai.jpg)
+![Image by ShonEjai via Pixabay](pixabay_ShonEjai.jpg)
 
 *Welcome to GitHub! You're amazing. Congratulations for making it this far! ~anne :sparkling_heart:*
 
-[Image by pixel2013 via Pixabay](pixabay_pixel2013.jpg)
+![Image by pixel2013 via Pixabay](pixabay_pixel2013.jpg)
 
 
-.....................................................[Image by StockSnap via Pixabay](pixabay_StockSnap(cat).jpg)
+.....................................................![Image by StockSnap via Pixabay](pixabay_StockSnap(cat).jpg)

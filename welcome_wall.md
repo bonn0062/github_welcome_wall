@@ -1,6 +1,6 @@
 ![Photo by Tama66 via Pixabay](pixabay_Tama66.jpg)
 
-## You're here! You made it! Welcome to the Wall!
+## You're here! You made it! Welcome to the Wall! {text-align:center;}
 
 Now it's time to contribute to your very first open source project by writing a quick message here to welcome anyone else who's new here. 
 
@@ -15,7 +15,7 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 
 ![Image by ShonEjai via Pixabay](pixabay_ShonEjai.jpg)
 
-*Welcome to GitHub! You're amazing. Congratulations for making it this far! ~anne* :sparkling_heart:
+*Welcome to GitHub! You're amazing. Congratulations for making it this far! ~anne* <i class="fas fa-heart" aria-hidden="true" style="color:#c7254e">
 
 ![Image by pixel2013 via Pixabay](pixabay_pixel2013.jpg)
 

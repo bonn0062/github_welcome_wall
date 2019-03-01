@@ -2,7 +2,7 @@
 
 You've read [the article](http://), and now you're here to contribute to your first open source project! 
 
->>>It's time to leave a message for everyone who comes after you.
+**It's time to leave a message for everyone who comes after you.**
 
 
 # Find the [wall](welcome_wall.md) here!

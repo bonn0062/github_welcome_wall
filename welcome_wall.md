@@ -13,11 +13,8 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 ## I can't wait to see what we create!
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-# THE WALL{: .text-center}
+# THE WALL
+{: .text-center}
 ![Image by ShonEjai via Pixabay](pixabay_ShonEjai.jpg)
 {: .full}
 <br>
@@ -37,6 +34,7 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 <br>
 
 ![Image by ShonEjai via Pixabay](pixabay_ShonEjai(hope).jpg)
+{: =150x100 style="float:right; padding:16px"}
 <br>
 
 ![Image by StockSnap via Pixabay](pixabay_StockSnap(beauty).jpg)
@@ -55,6 +53,8 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 
 
 ![Image by StockSnap via Pixabay](pixabay_StockSnap(cat).jpg)
-{: width=150 height=100 style="float:right; padding:16px"}
+{: =150x100 style="float:right; padding:16px"}
 
-
+Happy creating! <3
+<br>
+<br>

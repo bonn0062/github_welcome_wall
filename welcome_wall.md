@@ -18,7 +18,7 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 # THE WALL
 {: .text-center}
 ![Image by ShonEjai via Pixabay](Images/pixabay_ShonEjai.jpg)
-{: .full}
+
 <br>
 <br>
 <br>

@@ -58,6 +58,7 @@ Welcome to GitHub! You're amazing. Congratulations for making it this far! ~anne
 <br>
 “When you notice that you’re having negative thoughts about how all of this is going to pan out, you need to remind yourself that you are not a very good fortune teller.” — Donna W. Hill
 <br>
+<br>
 ![Image by ShonEjai via Pixabay](Images/pixabay_ShonEjai(hope).jpg)
 {: =150x100 style="float:right; padding:16px"}
 <br>

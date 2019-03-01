@@ -32,7 +32,7 @@ Welcome to GitHub! You're amazing. Congratulations for making it this far! ~anne
 <br>
 <br>
 <br>
-![Image by pixel2013 via Pixabay](Images/pixabay_pixel2013.jpg)
+![Image by pixel2013 via Pixabay](Images/pixabay_pixel2013.jpg){: .align-left}
 <br>
 <br>
 ![Image by ShonEjai via Pixabay](Images/pixabay_ShonEjai(hope).jpg)

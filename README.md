@@ -4,10 +4,15 @@ You've read the article, and now you're here to contribute to your first open so
 
 It's time to leave a message for everyone who comes after you.
 
+## Find the [wall](welcome_wall.md) here!
 
-**This is the official repository for the Towards Data Science Article, [WTH am I doing here? The absolute beginner's guide to Git and GitHub: Getting started with Git and GitHub for the curious and completely confused (plus the easiest way to contribute to your first open source project ever!)](http://)**
+**This is the official repository for the Towards Data Science Article,** 
+
+**[WTH am I doing here? The absolute beginner's guide to Git and GitHub: Getting started with Git and GitHub for the curious and completely confused (plus the easiest way to contribute to your first open source project ever!)](http://)**
+
 
 ![Photo by James Bold on Unsplash](unsplash_james_bold.jpeg)
+
 
 This is a tiny project that only exists to welcome newcomers to the GitHub process. If you are totally new to the Git and GitHub thing and you need a safe place to figure out how to clone a repository, make a change, and create a pull request, you're in the right place.
 

@@ -11,12 +11,29 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 
 
 **I can't wait to see what we create!**
+-----------
 
 ![Image by ShonEjai via Pixabay](pixabay_ShonEjai.jpg)
 
-*Welcome to GitHub! You're amazing. Congratulations for making it this far! ~anne :sparkling_heart:*
+*Welcome to GitHub! You're amazing. Congratulations for making it this far! ~anne* :sparkling_heart:
 
 ![Image by pixel2013 via Pixabay](pixabay_pixel2013.jpg)
 
 
-<p class="text-right">Look I'm right!</p>[Image by StockSnap via Pixabay](pixabay_StockSnap(cat).jpg)
+
+![Image by ShonEjai via Pixabay](pixabay_ShonEjai(hope).jpg)
+
+
+
+![Image by StockSnap via Pixabay](pixabay_StockSnap(beauty).jpg)
+
+
+
+
+
+
+
+
+
+
+! <p class="text-right">[Image by StockSnap via Pixabay](pixabay_StockSnap(cat).jpg)</p>

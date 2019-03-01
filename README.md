@@ -81,3 +81,7 @@ This article will get you up and running with the basics. There's a lot of stuff
 Let's get started!
 
 [Read the rest of the article here!](http://)
+
+## Please be aware
+
+I absolutely reserve the right not to add anything that I think might send the wrong message or cause problems, and I will remove without hesitation anything that someone else feels sends the wrong message. If you think that there is a message on here that's negative and you would like it removed, all you have to do is reach out and let me know and I will take it down.

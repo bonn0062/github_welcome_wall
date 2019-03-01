@@ -23,19 +23,33 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 <br>
 <br>
 <br>
+“The most effective way to do it, is to do it.” — Amelia Earhart
 <br>
+<br>
+“If you’re not making mistakes, then you’re not making decisions.” — Catherine Cook
+<br>
+“If you obey all the rules, you miss all the fun.” — Katharine Hepburn
 <br>
 Welcome to GitHub! You're amazing. Congratulations for making it this far! ~anne 
 {: .text-left}
 <br>
 <br>
+“If you’re feeling helpless, help someone.” — Aung San Suu Kyi
 <br>
 <br>
+“People will forget what you said, people will forget what you did, but people will never forget how you made them feel.” — Maya Angelou
+<br>
+<br>
+“We can do no great things, only small things with great love.” — Mother Teresa
+<br>
+<br>
+“Nobody cares if you can’t dance well. Just get up and dance. Great dancers are not great because of their technique, they are great because of their passion.” — Martha Graham
 <br>
 <br>
 ![Image by pixel2013 via Pixabay](images/pixabay_pixel2013.jpg)
 {: .align-left}
 <br>
+“When you notice that you’re having negative thoughts about how all of this is going to pan out, you need to remind yourself that you are not a very good fortune teller.” — Donna W. Hill
 <br>
 ![Image by ShonEjai via Pixabay](images/pixabay_ShonEjai(hope).jpg)
 {: =150x100 style="float:right; padding:16px"}

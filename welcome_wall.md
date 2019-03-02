@@ -2,14 +2,14 @@
 
 ### You're here! You made it!
 {: .text-center}
-# Welcome to the Wall!
+<br>
+# WELCOME TO THE WALL!
  {: .text-center}
 <br>
 **Now it's time to contribute to your very first open source project by writing a quick message here to welcome everyone who comes after you.**
 {: .text-left}
-The only rule here is: **please be kind!** The only messages that won't be accepted are ones that are anything other than welcoming and encouraging. You have the rest of the internet at your disposal for that stuff.
-
-*If you don't know how to use markdown, here's a [fantastic guide!]*(http://agea.github.io/tutorial.md/)
+The only rule here is: **please be kind!** The only messages that won't be accepted are ones that are anything other than welcoming and encouraging. You have the rest of the internet at your disposal for that stuff. If you don't know how to use markdown, here's a [fantastic guide!](http://agea.github.io/tutorial.md/)
+<br>
 <br>
 **Now get out there and change the world**
 
@@ -26,7 +26,7 @@ The only rule here is: **please be kind!** The only messages that won't be accep
 <br>
 <br>
 ![Image by pixel2013 via Pixabay](Images/pixabay_pixel2013.jpg)
-{: .align-left}
+{: .float:left}
 <br>
 *The most effective way to do it, is to do it.*
 <br>— Amelia Earhart
@@ -108,13 +108,30 @@ The only rule here is: **please be kind!** The only messages that won't be accep
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 *Happy creating! <3*
 {: style="color: red; .text-left"}
 ![Image by StockSnap via Pixabay](Images/pixabay_StockSnap(cat).jpg){: .align-left; =150x100}
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>

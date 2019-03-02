@@ -50,4 +50,4 @@ If you find a security vulnerability, do NOT open an issue. Notify me personally
 
 # Just so you know
 I look at Pull Requests on a regular basis. I'm doing this on my own, so it might take a little time before I get to every pull request, but I promise I will!
-> If feedback has been given, I expect responses within one month. After one month, I may close the pull request if it isn't showing any activity. Chances are, though, if you are submitting a simple note or image, your change will be merged without feedback. I'm just putting this here for the rare instance that I might need a little more information from you before adding your message to the repository.
+> If feedback has been given, I expect responses within one month. After one month, I may close the pull request if it isn't showing any activity. Chances are, though, if you are submitting a simple note or image, your change will be merged without feedback. I'm just putting this here for the rare instance that I might need a little more information from you before adding your message to the wall.

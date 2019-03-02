@@ -6,10 +6,9 @@ You've read [the article](https://towardsdatascience.com/getting-started-with-gi
 <br>
 **It's time to leave a message for everyone who comes after you.**
 {: .text-center}
-
-# [Visit the wall here!](https://bonn0062.github.io/github_welcome_wall/welcome_wall.html)
-{: .text-center}
 <br>
+# [VISIT THE WALL HERE!](https://bonn0062.github.io/github_welcome_wall/welcome_wall.html)
+{: .text-center}
 *You can find the [welcome wall file here](welcome_wall.md)*
 <br>
 ![Photo by James Bold on Unsplash](Images/unsplash_james_bold.jpeg)
@@ -91,4 +90,4 @@ Let's get started!
 
 ## Please be aware
 
-I absolutely reserve the right not to add anything that I think might send the wrong message or cause problems, and I will remove without hesitation anything that someone else feels sends the wrong message. If you think that there is a message on here that's negative and you would like it removed, all you have to do is reach out and let me know and I will take it down. I may also resize and/or relocate messages and images, etc. if and when it makes sense to do so.
+*I absolutely reserve the right not to add anything that I think might send the wrong message or cause problems, and I will remove without hesitation anything that someone else feels sends the wrong message. If you think that there is a message on here that's negative and you would like it removed, all you have to do is reach out and let me know and I will take it down. I may also resize and/or relocate messages and images, etc. if and when it makes sense to do so.*

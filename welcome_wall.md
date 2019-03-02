@@ -3,13 +3,14 @@
 ## You're here! You made it! Welcome to the Wall!
 {: .text-center}
 Now it's time to contribute to your very first open source project by writing a quick message here to welcome anyone else who's new here. 
-
+{: .text-center}
 The only rule here is: **please be kind!** The only messages that won't be accepted are ones that are anything other than welcoming and encouraging. You have the rest of the internet at your disposal for that stuff.
-
+{: .text-center}
 If you don't know how to use markdown, here's a [fantastic guide!](http://agea.github.io/tutorial.md/)
+{: .text-center}
 <br>
 **Now get out there and change the world**
-
+{: .text-center}
 
 ## I can't wait to see what we create!
 {: .text-center}
@@ -50,6 +51,7 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 {: style="color: orange"}
 <br>
 <br>
+![Image by ShonEjai via Pixabay](Images/pixabay_ShonEjai(hope).jpg){: =150x100 style="float:right; padding:16px"}
 <br>
 <br>
 “People will forget what you said, people will forget what you did, but people will never forget how you made them feel.” 
@@ -61,9 +63,6 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
  — Mother Teresa
 {: style="color: pink"}
 <br>
-<br>
-<br>
-![Image by ShonEjai via Pixabay](Images/pixabay_ShonEjai(hope).jpg){: =150x100 style="float:right; padding:16px"}
 <br>
 <br>
 “Nobody cares if you can’t dance well. 
@@ -90,8 +89,7 @@ Great dancers are not great because of their technique, they are great because o
 <br>
 *Happy creating! <3*
 {: style="color: red; .text-left"}
-<br>
-![Image by StockSnap via Pixabay](Images/pixabay_StockSnap(cat).jpg){: =150x100 style="; padding:16px"}
+![Image by StockSnap via Pixabay](Images/pixabay_StockSnap(cat).jpg){: =150x100 style="}
 <br>
 <br>
 <br>

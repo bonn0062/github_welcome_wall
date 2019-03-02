@@ -1,13 +1,15 @@
-# Welcome to the GitHub welcome wall project!!!
+# Welcome to the Welcome Wall project!!!
+{: .text-center}
 
 You've read [the article](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6), and now you're here to contribute to your first open source project! 
 
 **It's time to leave a message for everyone who comes after you.**
 
 
-# Find the [wall](welcome_wall.md) here!
+# Find the [wall](https://bonn0062.github.io/github_welcome_wall/welcome_wall.html) here!
+{: .text-center}
 
-
+*You can find the [welcome wall file here](welcome_wall.md)*
 ![Photo by James Bold on Unsplash](Images/unsplash_james_bold.jpeg)
 
 **This is the official repository for the Towards Data Science Article,** 

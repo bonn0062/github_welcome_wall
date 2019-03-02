@@ -6,14 +6,15 @@
 # WELCOME TO THE WALL!
  {: .text-center}
 <br>
-**Now it's time to contribute to your very first open source project by adding a quick message to welcome everyone who comes after you.**
+**It's time to contribute to your very first open source project by adding a quick message to welcome everyone who comes after you.**
 {: .text-left}
-The only rule here is: **please be kind!** The messages that won't make it on the wall are ones that are anything other than welcoming and encouraging. There are a nearly unlimited number of ways to make this space better, so feel free to be creative and think outside the box! If you don't know how to use markdown, here's a [fantastic guide!](http://agea.github.io/tutorial.md/) If you're not sure what this wall is about, take a look at [the article](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)!
+The only rule here is: **please be kind!** The messages that won't make it on the wall are ones that are anything other than welcoming and encouraging. There are a nearly unlimited number of ways to make this space better, so feel free to be creative and think outside the box! If you don't know how to use markdown, here's a [fantastic guide](http://agea.github.io/tutorial.md/). If you're not sure what this wall is about, take a look at [the article](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)!
 <br>
 <br>
 **Now get out there and change the world**
 <br>
-## I can't wait to see what we create!
+<br>
+## I can't wait to see what we create together!
 {: .text-center}
 <br>
 # THE WALL

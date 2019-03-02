@@ -2,9 +2,10 @@
 {: .text-center}
 
 You've read [the article](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6), and now you're here to contribute to your first open source project! 
+{: .text-center}
 
 **It's time to leave a message for everyone who comes after you.**
-
+{: .text-center}
 
 # Find the [wall](https://bonn0062.github.io/github_welcome_wall/welcome_wall.html) here!
 {: .text-center}

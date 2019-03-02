@@ -42,6 +42,16 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 {: style="color: orange"}
 <br>
 <br>
+![Image by pixel2013 via Pixabay](Images/pixabay_pixel2013.jpg)
+{: .align-left}
+<br>
+<br>
+“When you notice that you’re having negative thoughts about how all of this is going to pan out, you need to remind yourself that you are not a very good fortune teller.” — Donna W. Hill
+{: style="color: orange"}
+<br>
+<br>
+<br>
+<br>
 “People will forget what you said, people will forget what you did, but people will never forget how you made them feel.” 
 — Maya Angelou
 {: style="color: blue"}
@@ -51,13 +61,6 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
  — Mother Teresa
 {: style="color: pink"}
 <br>
-<br>
-<br>
-![Image by pixel2013 via Pixabay](Images/pixabay_pixel2013.jpg)
-{: .align-left}
-<br>
-<br>
-“When you notice that you’re having negative thoughts about how all of this is going to pan out, you need to remind yourself that you are not a very good fortune teller.” — Donna W. Hill
 <br>
 <br>
 ![Image by ShonEjai via Pixabay](Images/pixabay_ShonEjai(hope).jpg){: =150x100 style="float:right; padding:16px"}
@@ -70,23 +73,25 @@ Great dancers are not great because of their technique, they are great because o
 {: style="color: green"}
 <br>
 <br>
-![Image by StockSnap via Pixabay](Images/pixabay_StockSnap(beauty).jpg)
-<br>
-<br>
 “If you obey all the rules, you miss all the fun.” 
 — Katharine Hepburn
 {: style="color: purple"}
 <br>
 <br>
+![Image by StockSnap via Pixabay](Images/pixabay_StockSnap(beauty).jpg)
 <br>
 <br>
 <br>
 <br>
 <br>
-Happy creating! <3
+<br>
+<br>
+<br>
+<br>
+*Happy creating! <3*
 {: style="color: red; .text-left"}
 <br>
-![Image by StockSnap via Pixabay](Images/pixabay_StockSnap(cat).jpg){: =150x100 style="float:right; padding:16px"}
+![Image by StockSnap via Pixabay](Images/pixabay_StockSnap(cat).jpg){: =150x100 style="; padding:16px"}
 <br>
 <br>
 <br>

@@ -6,9 +6,9 @@
 # WELCOME TO THE WALL!
  {: .text-center}
 <br>
-**Now it's time to contribute to your very first open source project by writing a quick message here to welcome everyone who comes after you.**
+**Now it's time to contribute to your very first open source project by adding a quick message to welcome everyone who comes after you.**
 {: .text-left}
-The only rule here is: **please be kind!** The only messages that won't be accepted are ones that are anything other than welcoming and encouraging. You have the rest of the internet at your disposal for that stuff. There are a nearly unlimited number of ways to make this space better, so be creative and think outside the box if you want to! If you don't know how to use markdown, here's a [fantastic guide!](http://agea.github.io/tutorial.md/)
+The only rule here is: **please be kind!** The messages that won't make it on the wall are ones that are anything other than welcoming and encouraging. There are a nearly unlimited number of ways to make this space better, so feel free to be creative and think outside the box! If you don't know how to use markdown, here's a [fantastic guide!](http://agea.github.io/tutorial.md/) If you're not sure what this wall is about, take a look at [the article](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)!
 <br>
 <br>
 **Now get out there and change the world**
@@ -31,7 +31,7 @@ The only rule here is: **please be kind!** The only messages that won't be accep
 {: style="color: red"}
 <br>
 ![Image by pixel2013 via Pixabay](Images/pixabay_pixel2013.jpg)
-{: .float:left}
+{: .float:right}
 <br>
 *If you’re not making mistakes, then you’re not making decisions.* 
 <br>— Catherine Cook
@@ -39,7 +39,7 @@ The only rule here is: **please be kind!** The only messages that won't be accep
 <br>
 <br>
 **Welcome to GitHub!!! You're amazing. Congratulations for making it this far!** ~anne 
-{ style="color:black"}
+{: style="color:black"}
 <br>
 <br>
 <br>
@@ -71,6 +71,8 @@ The only rule here is: **please be kind!** The only messages that won't be accep
 *Great dancers are not great because of their technique, they are great because of their passion.* 
 <br>— Martha Graham
 {: style="color: green"}
+<br>
+<br>
 <br>
 <br>
 <br>

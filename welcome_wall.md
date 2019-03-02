@@ -46,7 +46,7 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 <br>
 *If you’re feeling helpless, help someone.*
 <br>— Aung San Suu Kyi
-{: style="color: orange"}
+{: style="color: orange"; .text-center}
 <br>
 *When you notice that you’re having negative thoughts about how all of this is going to pan out,* 
 *you need to remind yourself that you are not a very good fortune teller.* 

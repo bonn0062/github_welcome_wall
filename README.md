@@ -1,6 +1,6 @@
 # Welcome to the GitHub welcome wall project!!!
 
-You've read [the article](http://), and now you're here to contribute to your first open source project! 
+You've read [the article](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6), and now you're here to contribute to your first open source project! 
 
 **It's time to leave a message for everyone who comes after you.**
 
@@ -12,7 +12,7 @@ You've read [the article](http://), and now you're here to contribute to your fi
 
 **This is the official repository for the Towards Data Science Article,** 
 
-**[WTH am I doing here? The absolute beginner's guide to Git and GitHub: Getting started with Git and GitHub for the curious and completely confused (plus the easiest way to contribute to your first open source project ever!)](http://)**
+**[Getting started with Git and GitHub: the complete beginner's guide (plus the easiest way to contribute to your first open source project ever!)](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)**
 
 
 This is a tiny project that only exists to welcome newcomers to the GitHub process. If you are totally new to the Git and GitHub thing and you need a safe place to figure out how to clone a repository, make a change, and create a pull request, you're in the right place.
@@ -83,7 +83,7 @@ This article will get you up and running with the basics. There's a lot of stuff
 
 Let's get started!
 
-[Read the rest of the article here!](http://)
+[Read the rest of the article here!](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
 ## Please be aware
 

@@ -74,6 +74,7 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 <br>
 Happy creating! <3
 {: style="color: red; float:right"}
+<br>
 ![Image by StockSnap via Pixabay](Images/pixabay_StockSnap(cat).jpg){: =150x100 style="float:right; padding:16px"}
 <br>
 <br>

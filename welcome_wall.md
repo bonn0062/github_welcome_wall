@@ -23,38 +23,39 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 <br>
 <br>
 <br>
-“The most effective way to do it, is to do it.” — Amelia Earhart
+“The most effective way to do it, is to do it.” 
+— Amelia Earhart
 {: style="color: red"}
 <br>
 <br>
-“If you’re not making mistakes, then you’re not making decisions.” — Catherine Cook
+“If you’re not making mistakes, then you’re not making decisions.” 
+— Catherine Cook
 {: style="color: green"}
 <br>
-“If you obey all the rules, you miss all the fun.” — Katharine Hepburn
-{: style="color: purple"}
 <br>
 **Welcome to GitHub!!! You're amazing. Congratulations for making it this far!** ~anne 
 {: .text-left}
 <br>
 <br>
-“If you’re feeling helpless, help someone.” — Aung San Suu Kyi
+“If you’re feeling helpless, help someone.” 
+— Aung San Suu Kyi
 {: style="color: orange"}
 <br>
 <br>
-“People will forget what you said, people will forget what you did, but people will never forget how you made them feel.” — Maya Angelou
+“People will forget what you said, people will forget what you did, but people will never forget how you made them feel.” 
+— Maya Angelou
 {: style="color: blue"}
 <br>
 <br>
-“We can do no great things, only small things with great love.” — Mother Teresa
+“We can do no great things, only small things with great love.”
+ — Mother Teresa
 {: style="color: pink"}
 <br>
-<br>
-“Nobody cares if you can’t dance well. Just get up and dance. Great dancers are not great because of their technique, they are great because of their passion.” — Martha Graham
-{: style="color: green"}
 <br>
 <br>
 ![Image by pixel2013 via Pixabay](Images/pixabay_pixel2013.jpg)
 {: .align-left}
+<br>
 <br>
 “When you notice that you’re having negative thoughts about how all of this is going to pan out, you need to remind yourself that you are not a very good fortune teller.” — Donna W. Hill
 <br>
@@ -62,9 +63,19 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 ![Image by ShonEjai via Pixabay](Images/pixabay_ShonEjai(hope).jpg){: =150x100 style="float:right; padding:16px"}
 <br>
 <br>
+“Nobody cares if you can’t dance well. 
+Just get up and dance. 
+Great dancers are not great because of their technique, they are great because of their passion.” 
+— Martha Graham
+{: style="color: green"}
+<br>
+<br>
 ![Image by StockSnap via Pixabay](Images/pixabay_StockSnap(beauty).jpg)
 <br>
 <br>
+“If you obey all the rules, you miss all the fun.” 
+— Katharine Hepburn
+{: style="color: purple"}
 <br>
 <br>
 <br>
@@ -73,7 +84,7 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 <br>
 <br>
 Happy creating! <3
-{: style="color: red; float:right"}
+{: style="color: red; .text-left"}
 <br>
 ![Image by StockSnap via Pixabay](Images/pixabay_StockSnap(cat).jpg){: =150x100 style="float:right; padding:16px"}
 <br>

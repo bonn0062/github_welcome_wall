@@ -33,7 +33,7 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 “If you obey all the rules, you miss all the fun.” — Katharine Hepburn
 {: style="color: purple"}
 <br>
-Welcome to GitHub! You're amazing. Congratulations for making it this far! ~anne 
+**Welcome to GitHub!!! You're amazing. Congratulations for making it this far!** ~anne 
 {: .text-left}
 <br>
 <br>
@@ -59,8 +59,7 @@ Welcome to GitHub! You're amazing. Congratulations for making it this far! ~anne
 “When you notice that you’re having negative thoughts about how all of this is going to pan out, you need to remind yourself that you are not a very good fortune teller.” — Donna W. Hill
 <br>
 <br>
-![Image by ShonEjai via Pixabay](Images/pixabay_ShonEjai(hope).jpg)
-{: =150x100 style="float:right; padding:16px"}
+![Image by ShonEjai via Pixabay](Images/pixabay_ShonEjai(hope).jpg){: =150x100 style="float:right; padding:16px"}
 <br>
 <br>
 ![Image by StockSnap via Pixabay](Images/pixabay_StockSnap(beauty).jpg)
@@ -74,7 +73,7 @@ Welcome to GitHub! You're amazing. Congratulations for making it this far! ~anne
 <br>
 <br>
 Happy creating! <3
-{: style="color: red"}
+{: style="color: red; float:right"}
 ![Image by StockSnap via Pixabay](Images/pixabay_StockSnap(cat).jpg){: =150x100 style="float:right; padding:16px"}
 <br>
 <br>

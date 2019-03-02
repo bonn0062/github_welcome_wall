@@ -7,7 +7,7 @@ You've read [the article](https://towardsdatascience.com/getting-started-with-gi
 **It's time to leave a message for everyone who comes after you.**
 {: .text-center}
 
-# [See the wall here!](https://bonn0062.github.io/github_welcome_wall/welcome_wall.html)
+# [Visit the wall here!](https://bonn0062.github.io/github_welcome_wall/welcome_wall.html)
 {: .text-center}
 <br>
 *You can find the [welcome wall file here](welcome_wall.md)*

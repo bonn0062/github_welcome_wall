@@ -2,7 +2,7 @@
 
 ### You're here! You made it!
 {: .text-center}
- # Welcome to the Wall!
+# Welcome to the Wall!
  {: .text-center}
 <br>
 **Now it's time to contribute to your very first open source project by writing a quick message here to welcome everyone who comes after you.**

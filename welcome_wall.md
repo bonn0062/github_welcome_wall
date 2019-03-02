@@ -6,13 +6,13 @@
  {: .text-center}
 <br>
 **Now it's time to contribute to your very first open source project by writing a quick message here to welcome everyone who comes after you.**
-
+{: .text-left}
 The only rule here is: **please be kind!** The only messages that won't be accepted are ones that are anything other than welcoming and encouraging. You have the rest of the internet at your disposal for that stuff.
 
 *If you don't know how to use markdown, here's a [fantastic guide!]*(http://agea.github.io/tutorial.md/)
 <br>
 **Now get out there and change the world**
-{: .text-center}
+
 ## I can't wait to see what we create!
 {: .text-center}
 <br>

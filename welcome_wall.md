@@ -47,14 +47,17 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 {: .align-left}
 <br>
 <br>
-“When you notice that you’re having negative thoughts about how all of this is going to pan out, you need to remind yourself that you are not a very good fortune teller.” — Donna W. Hill
+“When you notice that you’re having negative thoughts about how all of this is going to pan out, 
+you need to remind yourself that you are not a very good fortune teller.” 
+— Donna W. Hill
 {: style="color: orange"}
 <br>
 <br>
 ![Image by ShonEjai via Pixabay](Images/pixabay_ShonEjai(hope).jpg){: =150x100 style="float:right; padding:16px"}
 <br>
 <br>
-“People will forget what you said, people will forget what you did, but people will never forget how you made them feel.” 
+“People will forget what you said, people will forget what you did, 
+but people will never forget how you made them feel.” 
 — Maya Angelou
 {: style="color: blue"}
 <br>

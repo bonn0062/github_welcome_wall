@@ -24,6 +24,10 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 <br>
 <br>
 <br>
+![Image by pixel2013 via Pixabay](Images/pixabay_pixel2013.jpg)
+{: .align-left}
+<br>
+<br>
 “The most effective way to do it, is to do it.” 
 — Amelia Earhart
 {: style="color: red"}
@@ -43,10 +47,7 @@ If you don't know how to use markdown, here's a [fantastic guide!](http://agea.g
 {: style="color: orange"}
 <br>
 <br>
-![Image by pixel2013 via Pixabay](Images/pixabay_pixel2013.jpg)
-{: .align-left}
-<br>
-<br>
+
 “When you notice that you’re having negative thoughts about how all of this is going to pan out, 
 you need to remind yourself that you are not a very good fortune teller.” 
 — Donna W. Hill
@@ -92,7 +93,7 @@ Great dancers are not great because of their technique, they are great because o
 <br>
 *Happy creating! <3*
 {: style="color: red; .text-left"}
-![Image by StockSnap via Pixabay](Images/pixabay_StockSnap(cat).jpg){: =150x100 style="}
+![Image by StockSnap via Pixabay](Images/pixabay_StockSnap(cat).jpg){: .align-left; =150x100}
 <br>
 <br>
 <br>

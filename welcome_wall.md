@@ -87,6 +87,8 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 <br>
 <br>
 <br>
+You can do it! Keep at it :) ~ Sara
+{: style="color: purple"}
 <br>
 <br>
 <br>

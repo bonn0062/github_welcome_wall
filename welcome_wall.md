@@ -145,3 +145,6 @@ You can do it! Keep at it :) ~ Sara
 ![Image by StockSnap via Pixabay](Images/pixabay_StockSnap(cat).jpg){: .align-left; =150x100}
 <br>
 <br>
+**Congratulations for making it this far. You're a champion!!**
+<br>
+<br>

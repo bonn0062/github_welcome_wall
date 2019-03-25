@@ -91,7 +91,7 @@ You can do it! Keep at it :) ~ Sara
 {: style="color: purple"}
 <br>
 <br>
-<br>
+<br>Hello everyone. I'm a late started but looking forward to learning and contributing.
 <br>
 <br>
 <br>

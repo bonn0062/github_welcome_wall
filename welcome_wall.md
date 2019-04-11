@@ -23,8 +23,8 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 {: .full}
 <br>
 <br>
-<br>
-<br>
+*Just try new things. Don't be afraid. Step out of your comfort zones and soar, all right?*
+<br>-Michelle Obama
 <br>
 <br>
 *The most effective way to do it, is to do it.*

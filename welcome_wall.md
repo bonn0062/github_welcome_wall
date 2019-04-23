@@ -91,6 +91,7 @@ You can do it! Keep at it :) ~ Sara
 {: style="color: purple"}
 <br>
 <br>
+*GO ON! It's not as hard as it seems.* ~ SysWarrior
 <br>
 <br>
 <br>

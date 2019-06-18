@@ -148,3 +148,6 @@ You can do it! Keep at it :) ~ Sara
 **Congratulations for making it this far. You're a champion!!**
 <br>
 <br>
+<h4>STAY STRONG! KEEP ON MOVING FORWARD!</h4>
+<br>
+<br>

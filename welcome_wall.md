@@ -26,6 +26,7 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 *Just try new things. Don't be afraid. Step out of your comfort zones and soar, all right?*
 <br>-Michelle Obama
 <br>
+*Continuous Learning is the only Path worth taking.*
 <br>
 *The most effective way to do it, is to do it.*
 <br>— Amelia Earhart

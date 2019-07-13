@@ -92,7 +92,9 @@ You can do it! Keep at it :) ~ Sara
 <br>
 <br>
 <br>
-<br>
+<br> 
+*Failure is not an option*
+<br> - Gene Kranz
 <br>
 <br>
 <br>

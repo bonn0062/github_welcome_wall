@@ -76,8 +76,6 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 <br>
 <br>
 <br>
-<br>
-<br>
 *If you obey all the rules, you miss all the fun.* 
 <br>— Katharine Hepburn
 {: style="color: purple"}
@@ -93,54 +91,8 @@ You can do it! Keep at it :) ~ Sara
 <br>
 <br>
 <br>
-<br> 
 *Failure is not an option*
 <br> - Gene Kranz
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 *Happy creating! <3*
@@ -154,3 +106,4 @@ You can do it! Keep at it :) ~ Sara
 <h4>STAY STRONG! KEEP ON MOVING FORWARD!</h4>
 <br>
 <br>
+You're never going to feel ready. You're only going to look back, and realise that you were.

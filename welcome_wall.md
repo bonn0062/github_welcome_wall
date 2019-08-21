@@ -106,4 +106,4 @@ You can do it! Keep at it :) ~ Sara
 <h4>STAY STRONG! KEEP ON MOVING FORWARD!</h4>
 <br>
 <br>
-You're never going to feel ready. You're only going to look back, and realise that you were.
+**__You're never going to feel ready. You're only going to look back, and realise that you were.__**

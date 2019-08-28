@@ -107,3 +107,11 @@ You can do it! Keep at it :) ~ Sara
 <br>
 <br>
 You're never going to feel ready. You're only going to look back, and realise that you were.
+<br>
+<br>
+If you're frightened of making mistakes, you're never meant to learn anything.
+<br>-Monty Don
+<br>
+<br>
+Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.
+<br>-Patrick McKenzie

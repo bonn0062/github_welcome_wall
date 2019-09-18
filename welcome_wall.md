@@ -94,6 +94,7 @@ You can do it! Keep at it :) ~ Sara
 *Failure is not an option*
 <br> - Gene Kranz
 <br>
+“Anything’s possible if you’ve got enough nerve.” –J.K. Rowling
 <br>
 *Happy creating! <3*
 {: style="color: red; .text-left"}
@@ -115,3 +116,7 @@ Every great developer you know got there by solving problems they were unqualifi
 <br>
 Learning is freedom and freedom is for learning.
 <br>
+
+
+
+Never stop trying new things!

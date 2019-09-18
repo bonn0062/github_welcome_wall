@@ -113,4 +113,10 @@ You're never going to feel ready. You're only going to look back, and realise th
 Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.
 <br>-Patrick McKenzie
 <br>
+<br>
+Learning is freedom and freedom is for learning.
+<br>
+
+
+
 Never stop trying new things!

@@ -116,6 +116,10 @@ Every great developer you know got there by solving problems they were unqualifi
 <br>
 Learning is freedom and freedom is for learning.
 <br>
+<br>
+![Image by anonymous via Google](Images/chinese_sating.jpg)
+<br>
+
 
 
 

@@ -9,4 +9,5 @@ Then git add -A
 git commit -m "Comments on your changes" (quotes needed for this one!)
 git push
 
+Then on the project's Github page click "New Pull Request" and "Create pull request." 
 Congrats! You've made your first pull request. 

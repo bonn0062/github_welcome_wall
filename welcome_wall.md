@@ -116,7 +116,6 @@ Every great developer you know got there by solving problems they were unqualifi
 <br>
 Learning is freedom and freedom is for learning.
 <br>
-
-
+What we learn with pleasure we never forget - Alfred Mercier
 
 Never stop trying new things!

@@ -121,7 +121,10 @@ Learning is freedom and freedom is for learning.
 ![Image by anonymous via Google](Images/chinese_saying.jpg)
 <br>
 
-
+<br>
+![Image by anonymous via Google](Images/slope_vs_y-intercept.png)
+<br>
+It doesn't matter where you begin, just focus on your slope!
 
 
 What we learn with pleasure we never forget - Alfred Mercier

@@ -121,7 +121,9 @@ Learning is freedom and freedom is for learning.
 ![Image by anonymous via Google](Images/chinese_saying.jpg)
 <br>
 
-
+<br>
+It doesn't matter what your starting point is. Small increments each day will pay off handsomely in the long run. Keep on keeping on!
+<br>
 
 
 What we learn with pleasure we never forget - Alfred Mercier

@@ -127,3 +127,7 @@ Learning is freedom and freedom is for learning.
 What we learn with pleasure we never forget - Alfred Mercier
 
 Never stop trying new things!
+
+<br> 
+You make your mark though your actions in this world not your intentions. - Ammon 
+<br>

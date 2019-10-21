@@ -129,3 +129,7 @@ It doesn't matter what your starting point is. Small increments each day will pa
 What we learn with pleasure we never forget - Alfred Mercier
 
 Never stop trying new things!
+
+<br> 
+You make your mark though your actions in this world not your intentions. - Ammon 
+<br>

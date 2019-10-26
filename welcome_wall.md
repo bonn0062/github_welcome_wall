@@ -133,3 +133,7 @@ Never stop trying new things!
 <br> 
 You make your mark though your actions in this world not your intentions. - Ammon 
 <br>
+
+<br> 
+Believe in yourself, moreso than you think you do. - Satya Nadella
+<br>

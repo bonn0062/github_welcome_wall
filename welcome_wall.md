@@ -136,4 +136,8 @@ You make your mark though your actions in this world not your intentions. - Ammo
 
 <br> 
 Believe in yourself, moreso than you think you do. - Satya Nadella
+
+<br>
+
+The cost of inaction is more expensive than making a mistake. - ohhye 
 <br>

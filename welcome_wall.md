@@ -35,12 +35,12 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 ![Image by pixel2013 via Pixabay](Images/pixabay_pixel2013.jpg)
 {: .float:right}
 <br>
-*If you’re not making mistakes, then you’re not making decisions.* 
+*If you’re not making mistakes, then you’re not making decisions.*
 <br>— Catherine Cook
 {: style="color: green"}
 <br>
 <br>
-**Welcome to GitHub!!! You're amazing. Congratulations for making it this far!** ~anne 
+**Welcome to GitHub!!! You're amazing. Congratulations for making it this far!** ~anne
 {: style="color:black"}
 <br>
 <br>
@@ -49,16 +49,16 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 <br>— Aung San Suu Kyi
 {: style="color: orange"; .text-center}
 <br>
-*When you notice that you’re having negative thoughts about how all of this is going to pan out,* 
-*you need to remind yourself that you are not a very good fortune teller.* 
+*When you notice that you’re having negative thoughts about how all of this is going to pan out,*
+*you need to remind yourself that you are not a very good fortune teller.*
 <br>— Donna W. Hill
 {: style="color: red"}
 <br>
 ![Image by ShonEjai via Pixabay](Images/pixabay_ShonEjai(hope).jpg){: =150x100 style="float:right; padding:16px"}
 <br>
 <br>
-*People will forget what you said, people will forget what you did,* 
-*but people will never forget how you made them feel.* 
+*People will forget what you said, people will forget what you did,*
+*but people will never forget how you made them feel.*
 <br>— Maya Angelou
 {: style="color: blue"}
 <br>
@@ -68,15 +68,15 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 {: style="color: pink"}
 <br>
 <br>
-*Nobody cares if you can’t dance well.* 
-*Just get up and dance.* 
-*Great dancers are not great because of their technique, they are great because of their passion.* 
+*Nobody cares if you can’t dance well.*
+*Just get up and dance.*
+*Great dancers are not great because of their technique, they are great because of their passion.*
 <br>— Martha Graham
 {: style="color: green"}
 <br>
 <br>
 <br>
-*If you obey all the rules, you miss all the fun.* 
+*If you obey all the rules, you miss all the fun.*
 <br>— Katharine Hepburn
 {: style="color: purple"}
 <br>
@@ -130,10 +130,14 @@ What we learn with pleasure we never forget - Alfred Mercier
 
 Never stop trying new things!
 
-<br> 
-You make your mark though your actions in this world not your intentions. - Ammon 
+<br>
+You make your mark though your actions in this world not your intentions. - Ammon
 <br>
 
-<br> 
-The cost of inaction is mroe expensive than making a mistake. - ohhye 
+<br>
+The cost of inaction is mroe expensive than making a mistake. - ohhye
+<br>
+
+<br>
+Knowing is not enough; we must apply. Wishing is not enough; we must do. - Johann Wolfgang Von Goethe
 <br>

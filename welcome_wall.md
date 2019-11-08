@@ -24,7 +24,7 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 <br>
 <br>
 *Just try new things. Don't be afraid. Step out of your comfort zones and soar, all right?*
-<br>-Michelle Obama
+<br>— Michelle Obama
 <br>
 *Continuous Learning is the only Path worth taking.*
 <br>
@@ -107,7 +107,8 @@ You can do it! Keep at it :) ~ Sara
 **Congratulations for making it this far. You're a champion!!**
 <br>
 <br>
-<h4>STAY STRONG! KEEP ON MOVING FORWARD!</h4>
+#### STAY STRONG! KEEP ON MOVING FORWARD!
+{: .text-left}
 <br>
 <br>
 You're never going to feel ready. You're only going to look back, and realise that you were.
@@ -119,24 +120,24 @@ Every great developer you know got there by solving problems they were unqualifi
 <br>
 Learning is freedom and freedom is for learning.
 <br>
-
 <br>
 ![Image by anonymous via Google](Images/chinese_saying.jpg)
 <br>
-
 <br>
 It doesn't matter what your starting point is. Small increments each day will pay off handsomely in the long run. Keep on keeping on!
 <br>
-
-
+<br>
 What we learn with pleasure we never forget - Alfred Mercier
-
-Never stop trying new things!
-
+<br> Never stop trying new things!
+<br>
 <br> 
 You make your mark though your actions in this world not your intentions. - Ammon 
 <br>
-
 <br> 
-The cost of inaction is mroe expensive than making a mistake. - ohhye 
+The cost of inaction is more expensive than making a mistake. - ohhye 
+<br>
+<br>
+*Do not sit still; start moving now. In the beginning you may not go in the direction you want, but as long as you are moving, you are creating alternatives and possibilities.*
+<br>— Rodolfo Costa 
+{: .text-center}
 <br>

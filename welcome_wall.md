@@ -141,3 +141,7 @@ The cost of inaction is more expensive than making a mistake. - ohhye
 <br>— Rodolfo Costa 
 {: .text-center}
 <br>
+<br>
+**Welcome to GitHub!!! You're amazing. Congratulations for making it this far!** ~Prakhar 
+{: style="color:black"}
+<br>

@@ -141,3 +141,4 @@ The cost of inaction is more expensive than making a mistake. - ohhye
 <br>— Rodolfo Costa 
 {: .text-center}
 <br>
+“The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.” ― Isaac Asimov

@@ -141,3 +141,9 @@ The cost of inaction is more expensive than making a mistake. - ohhye
 <br>— Rodolfo Costa 
 {: .text-center}
 <br>
+<BR>
+<BR>
+Thank you for the awesome tutorial!
+<br>
+...people like you make the world a better place :*
+{: style="color: purple"}

@@ -139,5 +139,9 @@ The cost of inaction is more expensive than making a mistake. - ohhye
 <br>
 *Do not sit still; start moving now. In the beginning you may not go in the direction you want, but as long as you are moving, you are creating alternatives and possibilities.*
 <br>— Rodolfo Costa 
+<br>
+<br>
+This is the start of great things for you!
+<br>
 {: .text-center}
 <br>

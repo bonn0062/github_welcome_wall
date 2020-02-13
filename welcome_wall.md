@@ -141,3 +141,6 @@ The cost of inaction is more expensive than making a mistake. - ohhye
 <br>— Rodolfo Costa 
 {: .text-center}
 <br>
+<br> 
+“In a gentle way, you can shake the world.” —Mahatma Gandhi
+<br>

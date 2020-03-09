@@ -141,3 +141,6 @@ The cost of inaction is more expensive than making a mistake. - ohhye
 <br>— Rodolfo Costa 
 {: .text-center}
 <br>
+<br>
+The hardest step is the first, and you have done it. I'm so proud of you!
+<br>

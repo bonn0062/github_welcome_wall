@@ -144,6 +144,3 @@ The cost of inaction is more expensive than making a mistake. - ohhye
 <br>
 “Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”
 <br>
-<br>
-“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”
-<br>

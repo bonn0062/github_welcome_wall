@@ -47,6 +47,7 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 {: style="color:black"}
 <br>
 <br>
+*don't forget to breathe*
 <br>
 *If you’re feeling helpless, help someone.*
 <br>— Aung San Suu Kyi

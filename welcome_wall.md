@@ -141,6 +141,7 @@ The cost of inaction is more expensive than making a mistake. - ohhye
 <br>— Rodolfo Costa 
 {: .text-center}
 <br>
+
 <br>
 
 "Begin at the beginning," the King said, "and go on till you come to the end: then stop." - Lewis Caroll
@@ -148,4 +149,8 @@ The cost of inaction is more expensive than making a mistake. - ohhye
 
 **Welcome to GitHub!!! You're amazing. Congratulations for making it this far!** ~Prakhar 
 {: style="color:black"}
+<br>
+
+<br>
+“The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.” ― Isaac Asimov
 <br>

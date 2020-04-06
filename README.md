@@ -26,11 +26,13 @@ I'm not going to judge you for trying and I'm not going to judge you for making 
 
 **Just go for it!**
 
-Your mission is simply to clone the repository, create a branch where you add a positive welcoming or encouraging note for everyone who comes after you, and then create a pull request to have your message added to our wall. Be proud that you have come this far! Be encouraging! Don't ever forget how hard the first few steps of any journey can be. 
+Your mission is simply to fork the repository, create a branch where you add a positive welcoming or encouraging note for everyone who comes after you, and then create a pull request to have your message added to our wall. Be proud that you have come this far! Be encouraging! Don't ever forget how hard the first few steps of any journey can be. 
 
 Thinking way too hard about this? Feel free to copy and paste this message:
 
 *Welcome to GitHub! You're amazing. Congratulations for making it this far!*
+
+Sign your name to that if you're feeling a little bit brave!
 
 **Now let's get started!**
 

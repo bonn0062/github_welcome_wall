@@ -103,10 +103,13 @@ You can do it! Keep at it :) ~ Sara
 *Failure is not an option*
 <br> - Gene Kranz
 <br>
+<br>
 “Anything’s possible if you’ve got enough nerve.” –J.K. Rowling
+<br>
 <br>
 *Happy creating! <3*
 {: style="color: red; .text-left"}
+<br>
 ![Image by StockSnap via Pixabay](Images/pixabay_StockSnap(cat).jpg){: .align-left; =150x100}
 <br>
 <br>
@@ -134,6 +137,8 @@ It doesn't matter what your starting point is. Small increments each day will pa
 <br>
 <br>
 What we learn with pleasure we never forget - Alfred Mercier
+<br>
+<br>
 <br> Never stop trying new things!
 <br>
 <br>
@@ -159,7 +164,8 @@ The harder you work for something, the greater you’ll feel when you achieve it
 <br>
 <br>
 “Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”
-
+<br>
+<br>
 "Begin at the beginning," the King said, "and go on till you come to the end: then stop." - Lewis Caroll
 <br>
 <br>
@@ -173,7 +179,7 @@ The harder you work for something, the greater you’ll feel when you achieve it
 “In a gentle way, you can shake the world.” —Mahatma Gandhi
 <br>
 <br>
-May Your Heart be Fearless ,Mind Fierce and Spirit Free.
+May Your Heart be Fearless, Mind Fierce and Spirit Free.
 <br>
 <br>
 "When nothing seems to help, I go back and look at the stonecutter hammering away at his rock perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that blow that did it — but all that had gone before."

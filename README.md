@@ -39,7 +39,7 @@ Sign your name to that if you're feeling a little bit brave!
 
 ## Getting Started
 
-It's all in the article! You're going to clone this repository, edit the *welcome_wall.md* file to add an encouraging message (or some other cool communication) to the next person, and create your first pull request!
+It's all in the article! You're going to fork this repository, try creating a branch, edit the *welcome_wall.md* file to add an encouraging message (or some other cool communication) to the next person, and create your first pull request!
 
 ### Prerequisites
 

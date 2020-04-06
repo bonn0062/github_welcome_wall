@@ -146,8 +146,6 @@ This is the start of great things for you!
 {: .text-center}
 <br>
 
-<br>
-
 "Begin at the beginning," the King said, "and go on till you come to the end: then stop." - Lewis Caroll
 <br>
 
@@ -157,4 +155,8 @@ This is the start of great things for you!
 
 <br>
 “The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.” ― Isaac Asimov
+<br>
+
+<br> 
+“In a gentle way, you can shake the world.” —Mahatma Gandhi
 <br>

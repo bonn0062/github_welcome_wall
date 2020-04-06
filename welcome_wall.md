@@ -26,17 +26,22 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 *Just try new things. Don't be afraid. Step out of your comfort zones and soar, all right?*
 <br>— Michelle Obama
 <br>
+<br>
 *Continuous Learning is the only Path worth taking.*
+<br>
 <br>
 *The most effective way to do it, is to do it.*
 <br>— Amelia Earhart
+<br>
 <br>
 *It is amazing what you can accomplish if you do not care who gets the credit.*
 <br>- Harry S Truman
 {: style="color: red"}
 <br>
+<br>
 ![Image by pixel2013 via Pixabay](Images/pixabay_pixel2013.jpg)
 {: .float:right}
+<br>
 <br>
 *If you’re not making mistakes, then you’re not making decisions.*
 <br>— Catherine Cook
@@ -47,6 +52,7 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 {: style="color:black"}
 <br>
 <br>
+*don't forget to breathe*
 <br>
 *If you’re feeling helpless, help someone.*
 <br>— Aung San Suu Kyi
@@ -97,10 +103,13 @@ You can do it! Keep at it :) ~ Sara
 *Failure is not an option*
 <br> - Gene Kranz
 <br>
+<br>
 “Anything’s possible if you’ve got enough nerve.” –J.K. Rowling
+<br>
 <br>
 *Happy creating! <3*
 {: style="color: red; .text-left"}
+<br>
 ![Image by StockSnap via Pixabay](Images/pixabay_StockSnap(cat).jpg){: .align-left; =150x100}
 <br>
 <br>
@@ -128,6 +137,8 @@ It doesn't matter what your starting point is. Small increments each day will pa
 <br>
 <br>
 What we learn with pleasure we never forget - Alfred Mercier
+<br>
+<br>
 <br> Never stop trying new things!
 <br>
 <br>
@@ -144,3 +155,43 @@ The cost of inaction is more expensive than making a mistake. - ohhye
 <br>
 *A man’s life is interesting primarily when he has failed – I well know. For it’s a sign that he tried to surpass himself.*
 <br>— Georges Clemenceau
+<br>
+<br>
+Tell me and I forget. Teach me and I remember. Involve me and I learn." - Benjamin Franklin
+<br>
+<br>
+This is the start of great things for you!
+<br>
+{: .text-center}
+<br>
+<br>
+The hardest step is the first, and you have done it. I'm so proud of you!
+<br> 
+<br>
+If You Commit to Nothing, You’ll Be Distracted By Everything mizu no kokoro...
+<br> 
+<br>
+The harder you work for something, the greater you’ll feel when you achieve it.
+<br>
+<br>
+“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”
+<br>
+<br>
+"Begin at the beginning," the King said, "and go on till you come to the end: then stop." - Lewis Caroll
+<br>
+<br>
+**Welcome to GitHub!!! You're amazing. Congratulations for making it this far!** ~Prakhar 
+{: style="color:black"}
+<br>
+<br>
+“The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.” ― Isaac Asimov
+<br>
+<br> 
+“In a gentle way, you can shake the world.” —Mahatma Gandhi
+<br>
+<br>
+May Your Heart be Fearless, Mind Fierce and Spirit Free.
+<br>
+<br>
+"When nothing seems to help, I go back and look at the stonecutter hammering away at his rock perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that blow that did it — but all that had gone before."
+<br>

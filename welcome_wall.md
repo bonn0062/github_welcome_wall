@@ -141,3 +141,6 @@ The cost of inaction is more expensive than making a mistake. - ohhye
 <br>— Rodolfo Costa 
 {: .text-center}
 <br>
+<br> 
+If You Commit to Nothing, You’ll Be Distracted By Everything mizu no kokoro...
+<br> 

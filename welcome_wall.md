@@ -139,8 +139,24 @@ The cost of inaction is more expensive than making a mistake. - ohhye
 <br>
 *Do not sit still; start moving now. In the beginning you may not go in the direction you want, but as long as you are moving, you are creating alternatives and possibilities.*
 <br>— Rodolfo Costa 
+<br>
+<br>
+This is the start of great things for you!
+<br>
 {: .text-center}
 <br>
+
+"Begin at the beginning," the King said, "and go on till you come to the end: then stop." - Lewis Caroll
+<br>
+
+**Welcome to GitHub!!! You're amazing. Congratulations for making it this far!** ~Prakhar 
+{: style="color:black"}
+<br>
+
+<br>
+“The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.” ― Isaac Asimov
+<br>
+
 <br> 
 “In a gentle way, you can shake the world.” —Mahatma Gandhi
 <br>

@@ -147,6 +147,9 @@ This is the start of great things for you!
 <br>
 {: .text-center}
 <br>
+<br> 
+If You Commit to Nothing, You’ll Be Distracted By Everything mizu no kokoro...
+<br> 
 The harder you work for something, the greater you’ll feel when you achieve it.
 <br>
 “Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”

@@ -149,7 +149,12 @@ The cost of inaction is more expensive than making a mistake. - ohhye
 <br>
 <br>
 *Do not sit still; start moving now. In the beginning you may not go in the direction you want, but as long as you are moving, you are creating alternatives and possibilities.*
-<br>— Rodolfo Costa 
+<br>— Rodolfo Costa
+{: .text-center}
+<br>
+<br>
+*A man’s life is interesting primarily when he has failed – I well know. For it’s a sign that he tried to surpass himself.*
+<br>— Georges Clemenceau
 <br>
 <br>
 Tell me and I forget. Teach me and I remember. Involve me and I learn." - Benjamin Franklin

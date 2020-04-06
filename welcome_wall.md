@@ -142,5 +142,10 @@ The cost of inaction is more expensive than making a mistake. - ohhye
 {: .text-center}
 <br>
 <br>
+
 "Begin at the beginning," the King said, "and go on till you come to the end: then stop." - Lewis Caroll
+<br>
+
+**Welcome to GitHub!!! You're amazing. Congratulations for making it this far!** ~Prakhar 
+{: style="color:black"}
 <br>

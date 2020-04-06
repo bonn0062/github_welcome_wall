@@ -38,12 +38,12 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 ![Image by pixel2013 via Pixabay](Images/pixabay_pixel2013.jpg)
 {: .float:right}
 <br>
-*If you’re not making mistakes, then you’re not making decisions.* 
+*If you’re not making mistakes, then you’re not making decisions.*
 <br>— Catherine Cook
 {: style="color: green"}
 <br>
 <br>
-**Welcome to GitHub!!! You're amazing. Congratulations for making it this far!** ~anne 
+**Welcome to GitHub!!! You're amazing. Congratulations for making it this far!** ~anne
 {: style="color:black"}
 <br>
 <br>
@@ -52,16 +52,16 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 <br>— Aung San Suu Kyi
 {: style="color: orange"; .text-center}
 <br>
-*When you notice that you’re having negative thoughts about how all of this is going to pan out,* 
-*you need to remind yourself that you are not a very good fortune teller.* 
+*When you notice that you’re having negative thoughts about how all of this is going to pan out,*
+*you need to remind yourself that you are not a very good fortune teller.*
 <br>— Donna W. Hill
 {: style="color: red"}
 <br>
 ![Image by ShonEjai via Pixabay](Images/pixabay_ShonEjai(hope).jpg){: =150x100 style="float:right; padding:16px"}
 <br>
 <br>
-*People will forget what you said, people will forget what you did,* 
-*but people will never forget how you made them feel.* 
+*People will forget what you said, people will forget what you did,*
+*but people will never forget how you made them feel.*
 <br>— Maya Angelou
 {: style="color: blue"}
 <br>
@@ -71,15 +71,15 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 {: style="color: pink"}
 <br>
 <br>
-*Nobody cares if you can’t dance well.* 
-*Just get up and dance.* 
-*Great dancers are not great because of their technique, they are great because of their passion.* 
+*Nobody cares if you can’t dance well.*
+*Just get up and dance.*
+*Great dancers are not great because of their technique, they are great because of their passion.*
 <br>— Martha Graham
 {: style="color: green"}
 <br>
 <br>
 <br>
-*If you obey all the rules, you miss all the fun.* 
+*If you obey all the rules, you miss all the fun.*
 <br>— Katharine Hepburn
 {: style="color: purple"}
 <br>
@@ -130,15 +130,44 @@ It doesn't matter what your starting point is. Small increments each day will pa
 What we learn with pleasure we never forget - Alfred Mercier
 <br> Never stop trying new things!
 <br>
-<br> 
-You make your mark though your actions in this world not your intentions. - Ammon 
 <br>
-<br> 
-The cost of inaction is more expensive than making a mistake. - ohhye 
+You make your mark though your actions in this world not your intentions. - Ammon
+<br>
+<br>
+The cost of inaction is more expensive than making a mistake. - ohhye
 <br>
 <br>
 *Do not sit still; start moving now. In the beginning you may not go in the direction you want, but as long as you are moving, you are creating alternatives and possibilities.*
+
 <br>— Rodolfo Costa 
+<br>
+<br>
+This is the start of great things for you!
+<br>
+{: .text-center}
+<br>
+<br>
+“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”
+
+"Begin at the beginning," the King said, "and go on till you come to the end: then stop." - Lewis Caroll
+<br>
+
+**Welcome to GitHub!!! You're amazing. Congratulations for making it this far!** ~Prakhar 
+{: style="color:black"}
+<br>
+
+<br>
+“The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.” ― Isaac Asimov
+<br>
+
+<br> 
+“In a gentle way, you can shake the world.” —Mahatma Gandhi
+<br>
+
+<br>— Rodolfo Costa
 {: .text-center}
 <br>
 May Your Heart be Fearless ,Mind Fierce and Spirit Free.
+<br>
+"When nothing seems to help, I go back and look at the stonecutter hammering away at his rock perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that blow that did it — but all that had gone before."
+<br>

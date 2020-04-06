@@ -156,7 +156,10 @@ This is the start of great things for you!
 <br>
 {: .text-center}
 <br>
+<br>
+The hardest step is the first, and you have done it. I'm so proud of you!
 <br> 
+<br>
 If You Commit to Nothing, You’ll Be Distracted By Everything mizu no kokoro...
 <br> 
 <br>

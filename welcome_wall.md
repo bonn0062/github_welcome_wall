@@ -164,6 +164,8 @@ This is the start of great things for you!
 <br>
 {: .text-center}
 <br>
+<br>Welcome to GitHub! You're amazing. Congratulations for making it this far!<br>
+—Allen <br>
 <br>
 The hardest step is the first, and you have done it. I'm so proud of you!
 <br> 

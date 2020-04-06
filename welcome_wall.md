@@ -146,6 +146,8 @@ This is the start of great things for you!
 <br>
 {: .text-center}
 <br>
+<br>
+“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”
 
 "Begin at the beginning," the King said, "and go on till you come to the end: then stop." - Lewis Caroll
 <br>

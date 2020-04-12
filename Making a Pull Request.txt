@@ -1,0 +1,13 @@
+Install git from git-scm.com.
+Open up the git command line. 
+On github fork the repository. 
+Click download on the repository, and copy the link that opens. 
+In the command line type git clone "repo url" (no quotes!)
+When it downloads make whatever changed you want to the code. 
+In the git command line type cd "Folder name"
+Then git add -A
+git commit -m "Comments on your changes" (quotes needed for this one!)
+git push
+
+Then on the project's Github page click "New Pull Request" and "Create pull request." 
+Congrats! You've made your first pull request. 

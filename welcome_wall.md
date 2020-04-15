@@ -119,3 +119,6 @@ Learning is freedom and freedom is for learning.
 What we learn with pleasure we never forget - Alfred Mercier
 
 Never stop trying new things!
+<br>
+Quality is not an act, it is a habit - Aristotle
+

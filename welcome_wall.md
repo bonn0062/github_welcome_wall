@@ -13,6 +13,8 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 <br>
 **Now get out there and change the world**
 <br>
+<h1>Smile is the best way to be happy</h1>
+![Image by Tarun Singla by internet](Images/download.jpeg)
 <br>
 ## I can't wait to see what we create together!
 {: .text-center}

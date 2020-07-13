@@ -14,6 +14,9 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 **Now get out there and change the world**
 <br>
 <br>
+Welcome to GitHub! You're amazing. Congratulations for making it this far! - Shamham
+<br>
+<br>
 ## I can't wait to see what we create together!
 {: .text-center}
 <br>

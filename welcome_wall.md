@@ -23,6 +23,10 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 {: .full}
 <br>
 <br>
+*If you have a caring life partner, you help the other person when that person needs it. I had a life partner who thought my work was as important as his, and I think that made all the difference for me.*
+<br>Ruth Bader Ginsberg, Thank you Danny for being my partner.
+<br>
+<br>
 *Just try new things. Don't be afraid. Step out of your comfort zones and soar, all right?*
 <br>— Michelle Obama
 <br>

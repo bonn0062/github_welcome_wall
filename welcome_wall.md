@@ -1,3 +1,9 @@
+<br>
+<br>
+*Thanks for Andris, Kaspars, Raivis for my C++*
+<br>— Romans S
+<br>
+<br>
 ![Photo by Tama66 via Pixabay](Images/pixabay_Tama66.jpg)
 <br>
 ### You're here! You made it!

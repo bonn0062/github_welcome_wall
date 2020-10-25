@@ -1,7 +1,7 @@
 # Welcome to the [Welcome Wall project!!!](https://bonn0062.github.io/github_welcome_wall/) 
 {: .text-center}
 <br>
-You've read [the article](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6), and now you're here to contribute to your first open source project! 
+NEW MESSAGE - IT'S WORKING!!! NEW CHANGES!!! You've read [the article](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6), and now you're here to contribute to your first open source project! 
 {: .text-center}
 <br>
 **It's time to leave a message for everyone who comes after you.**

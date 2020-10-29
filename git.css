@@ -1,0 +1,47 @@
+/* Created by ANUBHAV*/
+
+body {
+  user-select:none;
+  font-family: Helvetica;
+}
+img {
+  width:70px;
+  border-radius:100%;
+  position:relative;
+  left:135px;
+  top:15px;
+}
+#container {
+  position:relative;
+  left:1%;
+  top:110px;
+  border:1px solid gray;
+  width:350px;
+  height:800px;
+  word-wrap: break-word;
+  box-shadow: 3px 3px 7px 3px gray;
+  border-radius:24px;
+}
+button {
+  width:33%;
+  height:40px;
+  position:relative;
+  left:120px;
+  top:13px;
+  border-radius:24px;
+  border:1px solid #42ef0e;
+  background-color: #42ef0e;
+  font-weight:700;
+  color: white;
+  font-size: 17px;
+  outline:none;
+}
+h1, p {
+  text-align:center;
+}
+button:hover {
+  background:white;
+  color: #42ef0e;
+  box-shadow: 0px 0px 2px 2px gray;
+  transition: all 0.5s ease;
+}

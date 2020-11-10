@@ -26,17 +26,15 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 *The most effective way to do it, is to do it.*
 <br>— Amelia Earhart
 
-*<span style="color: red">It is amazing what you can accomplish if you do not care who gets the credit.</span>*
+*It is amazing what you can accomplish if you do not care who gets the credit.*
 <br>- Harry S Truman
 
 ![Image by pixel2013 via Pixabay](Images/pixabay_pixel2013.jpg)
 
-*<span style="color: green">
-If you’re not making mistakes, then you’re not making decisions.</span>*
+*If you’re not making mistakes, then you’re not making decisions.*
 <br>— Catherine Cook
 
-**<span style="color: black">
-Welcome to GitHub!!! You're amazing. Congratulations for making it this far!</span>**<br>~anne
+**Welcome to GitHub!!! You're amazing. Congratulations for making it this far!**<br>~anne
 
 *don't forget to breathe*
 

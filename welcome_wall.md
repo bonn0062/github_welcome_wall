@@ -10,6 +10,7 @@
 {: .text-left}
 The only rule here is: **please be kind!** The messages that won't make it on the wall are ones that are anything other than welcoming and encouraging. There are a nearly unlimited number of ways to make this space better, so feel free to be creative and think outside the box! If you don't know how to use markdown, here's a [fantastic guide](http://agea.github.io/tutorial.md/). If you're not sure what this wall is about, take a look at [the article](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)!
 <br>
+**A journey of a thousan miles begins with just one step**
 <br>
 **Now get out there and change the world**
 <br>

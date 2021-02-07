@@ -21,6 +21,9 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 {: .text-center}
 ![Image by ShonEjai via Pixabay](Images/pixabay_ShonEjai.jpg)
 {: .full}
+
+<br>
+*Never give up, congrats for making it this far! :)*
 <br>
 <br>
 *Just try new things. Don't be afraid. Step out of your comfort zones and soar, all right?*

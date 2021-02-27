@@ -21,7 +21,7 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 {: .text-center}
 ![Image by ShonEjai via Pixabay](Images/pixabay_ShonEjai.jpg)
 {: .full}
-<br>
+<br>TERIMAKASIH BANYAK DARI DEAN
 <br>
 *Just try new things. Don't be afraid. Step out of your comfort zones and soar, all right?*
 <br>— Michelle Obama

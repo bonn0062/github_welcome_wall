@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.giphy.com/media/hVEBWRInEvNOEVS18i/giphy.webp">
+</p>
+
 # Welcome to the [Welcome Wall project!!!](https://bonn0062.github.io/github_welcome_wall/) 
 {: .text-center}
 <br>

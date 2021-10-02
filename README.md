@@ -93,3 +93,7 @@ Let's get started!
 ## Please be aware
 
 *I absolutely reserve the right not to add anything that I think might send the wrong message or cause problems, and I will remove without hesitation anything that someone else feels sends the wrong message. If you think that there is a message on here that's negative and you would like it removed, all you have to do is reach out and let me know and I will take it down. I may also resize and/or relocate messages and images, etc. if and when it makes sense to do so.*
+
+##  Thank You!
+
+Do you appreciate this opportunity to practice this skill set?  Why not add your personal thanks by adding to [ThankYou.md] (ThankYou.md)?

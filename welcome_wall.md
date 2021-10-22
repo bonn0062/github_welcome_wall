@@ -168,10 +168,10 @@ This is the start of great things for you!
 —Allen <br>
 <br>
 The hardest step is the first, and you have done it. I'm so proud of you!
-<br> 
+<br>
 <br>
 If You Commit to Nothing, You’ll Be Distracted By Everything mizu no kokoro...
-<br> 
+<br>
 <br>
 The harder you work for something, the greater you’ll feel when you achieve it.
 <br>
@@ -182,13 +182,13 @@ The harder you work for something, the greater you’ll feel when you achieve it
 "Begin at the beginning," the King said, "and go on till you come to the end: then stop." - Lewis Caroll
 <br>
 <br>
-**Welcome to GitHub!!! You're amazing. Congratulations for making it this far!** ~Prakhar 
+**Welcome to GitHub!!! You're amazing. Congratulations for making it this far!** ~Prakhar
 {: style="color:black"}
 <br>
 <br>
 “The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.” ― Isaac Asimov
 <br>
-<br> 
+<br>
 “In a gentle way, you can shake the world.” —Mahatma Gandhi
 <br>
 <br>
@@ -196,4 +196,6 @@ May Your Heart be Fearless, Mind Fierce and Spirit Free.
 <br>
 <br>
 "When nothing seems to help, I go back and look at the stonecutter hammering away at his rock perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that blow that did it — but all that had gone before."
+<br>
+Live everyday as if it was your last! - Ikram
 <br>

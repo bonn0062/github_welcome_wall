@@ -197,3 +197,7 @@ May Your Heart be Fearless, Mind Fierce and Spirit Free.
 <br>
 "When nothing seems to help, I go back and look at the stonecutter hammering away at his rock perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that blow that did it — but all that had gone before."
 <br>
+<br>
+Congratulations guys for making it!Remember that success is built on learning and making progress and no matter what; never give up. Thanks to Anne for setting up this first project too!!
+<br>
+<br>

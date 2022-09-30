@@ -1,4 +1,4 @@
-![Bermamit_2](http://ic.pics.livejournal.com/travelbabies/78377213/67811/67811_900.jpg))
+![Bermamit_2](http://ic.pics.livejournal.com/travelbabies/78377213/67811/67811_900.jpg)
 ![Bermamit](https://mashuk-tour.ru/wp-content/uploads/2020/05/bermamyt-dzhip-tur-1100x580.jpg)
 ![Photo by Tama66 via Pixabay](Images/pixabay_Tama66.jpg)
 <br>

@@ -33,6 +33,7 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 *The most effective way to do it, is to do it.*
 <br>— Amelia Earhart
 <br>
+*Never give up*
 <br>
 *It is amazing what you can accomplish if you do not care who gets the credit.*
 <br>- Harry S Truman

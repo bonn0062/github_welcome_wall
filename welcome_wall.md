@@ -33,6 +33,8 @@ The only rule here is: **please be kind!** The messages that won't make it on th
 *The most effective way to do it, is to do it.*
 <br>— Amelia Earhart
 <br>
+*Problem Solving is an art. but it takes a spirit and will to efficiently solve the problem.*
+<br>— Utsav Pandya
 <br>
 *It is amazing what you can accomplish if you do not care who gets the credit.*
 <br>- Harry S Truman

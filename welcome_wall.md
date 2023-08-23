@@ -197,3 +197,6 @@ May Your Heart be Fearless, Mind Fierce and Spirit Free.
 <br>
 "When nothing seems to help, I go back and look at the stonecutter hammering away at his rock perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that blow that did it — but all that had gone before."
 <br>
+<br>
+"Even though it may seem late to learn Git and GitHub, its really never too late. Here I am contributing to this beautiful wall, you got this and keep doing what you do best" <br>
+-shivashish <br>

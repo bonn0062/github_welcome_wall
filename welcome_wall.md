@@ -1,12 +1,12 @@
 ![Photo by Tama66 via Pixabay](Images/pixabay_Tama66.jpg)
 <br>
-### You're here! You made it!
+### Hii Adisha's here! Yess i made it!
 {: .text-center}
 <br>
 # WELCOME TO THE WALL!
  {: .text-center}
 <br>
-**It's time to contribute to your very first open source project by adding a quick message to welcome everyone who comes after you.**
+**It's very first time to contribute to my first open source project by adding a quick message to welcome everyone who comes after you.**
 {: .text-left}
 The only rule here is: **please be kind!** The messages that won't make it on the wall are ones that are anything other than welcoming and encouraging. There are a nearly unlimited number of ways to make this space better, so feel free to be creative and think outside the box! If you don't know how to use markdown, here's a [fantastic guide](http://agea.github.io/tutorial.md/). If you're not sure what this wall is about, take a look at [the article](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)!
 <br>
